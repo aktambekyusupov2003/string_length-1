@@ -6,6 +6,11 @@
     Returns:
         length of string */
 
+int func(String a) {
+  return a.length;
+}
+
 void main() {
+  print(func('uzbek_pubg'));
   // write your code here
 }
