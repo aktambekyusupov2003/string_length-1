@@ -14,6 +14,6 @@ bool func(String s) {
 }
 
 void main() {
-  print(func('jdfjkfhsjk'));
+  print(func('aktambek'));
   // write your code here
 }
